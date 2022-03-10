@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: hello-debuggingWorld
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: root
+Implementation-Vendor-Id: com.zth
+Created-By: Apache Maven 3.8.4
+Build-Jdk: 1.8.0_211
+Implementation-URL: http://projects.spring.io/spring-boot/hello-debugg
+ ingWorld/
+Implementation-Vendor: Pivotal Software, Inc.
+
